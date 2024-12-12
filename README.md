@@ -1,6 +1,6 @@
 # Frontend Case Study Task
 
-## Admin login
-link:- /admin
-usernam :- admin
+## Admin login -link:- /admin
+
+username :- admin
 password:- admin
